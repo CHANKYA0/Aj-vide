@@ -1,0 +1,1 @@
+Template image_prompt\nBOOK MODE: {book_mode}\nGENRE: {genre}\nTASK: {task}

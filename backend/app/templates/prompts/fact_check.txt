@@ -1,0 +1,1 @@
+Template fact_check\nBOOK MODE: {book_mode}\nGENRE: {genre}\nTASK: {task}
