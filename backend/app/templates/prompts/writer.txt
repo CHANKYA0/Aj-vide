@@ -1,0 +1,1 @@
+Template writer\nBOOK MODE: {book_mode}\nGENRE: {genre}\nTASK: {task}
